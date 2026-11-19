@@ -5,7 +5,7 @@
 ## ไฟล์ในโฟลเดอร์
 
 - `index.html` — แบบฟอร์มแบ่ง 5 ส่วน พร้อมตัวเลือกหลายค่า ค้นหาไม่จำเป็น บันทึกในอุปกรณ์ และดาวน์โหลด CSV
-- `mala_meat_database_template.xlsx` — แม่แบบฐานข้อมูล มีชีต `Meat_Records` และ `Data_Dictionary`
+- `mala_database_template.xlsx` — แม่แบบฐานข้อมูล มีชีต `Meat_Records` และ `Data_Dictionary`
 
 ## Google Sheets
 
@@ -23,7 +23,7 @@
 
 ```powershell
 git init
-git add index.html README.md mala_meat_database_template.xlsx .github/workflows/deploy.yml
+git add index.html README.md mala_database_template.xlsx .github/workflows/deploy.yml
 git commit -m "Initial MALA registry site"
 git branch -M main
 git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
