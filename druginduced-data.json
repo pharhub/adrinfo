@@ -1,18 +1,16 @@
 {
   "schemaVersion": 1,
   "quickPicks": [
-    "Digoxin",
-    "Furosemide",
-    "Ondansetron",
-    "Haloperidol",
-    "Fentanyl",
-    "Linezolid",
+    "Allopurinol",
+    "Sulfasalazine",
     "Ciprofloxacin",
-    "Tegafur + Gimeracil + Oteracil potassium",
-    "Trastuzumab",
-    "Pemafibrate",
-    "Lurasidone",
-    "Cisatracurium Besylate"
+    "Piroxicam",
+    "Sulfamethoxazole + Trimethoprim",
+    "Ceftriaxone sodium",
+    "Apixaban",
+    "Rifampicin",
+    "Diclofenac sodium",
+    "Dexamethasone"
   ],
   "phenotypes": [
     {
