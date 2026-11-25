@@ -15,6 +15,7 @@ body{background:#f4f5fa;color:#4a465b}.topbar{height:70px;padding:0 28px;backgro
 <script>
 document.querySelectorAll('[data-view]').forEach(el=>el.addEventListener('click',()=>{const view=el.dataset.view;document.querySelectorAll('.portal-view').forEach(v=>v.classList.toggle('hidden',v.id!==view));document.querySelectorAll('.side-link').forEach(link=>link.classList.toggle('active',link.dataset.view===view));document.querySelector('.bottom').classList.toggle('hidden',view!=='dashboard');location.hash=view==='dashboard'?'mala':'druginduced';window.scrollTo(0,0)}));
 const opts={refer:['Transfer from another hospital','โรงพยาบาลเชียงรายประชานุเคราะห์'],disease:['Chronic kidney disease (CKD)','Diabetes mellitus (DM)','Dyslipidemia (DLP)','Hypertension (HTN)','Heart failure (HF)','Coronary artery disease (CAD) / Ischemic heart disease (IHD)','Chronic liver disease / Cirrhosis','Chronic obstructive pulmonary disease (COPD)','Cerebrovascular disease (Stroke)','Malignancy / Active cancer','อื่นๆ'],risk:['poor renal function','severe dehydration','advanced age','sepsis','CHF','reduced tissue perfusion','anoxia','impaired hepatic metabolism','cirrhosis','active alcohol abuse','chronic alcoholism','history of MALA','อื่นๆ']};
+const selectedDrugs=new Set();
 let drugEvidence=[];
 let drugList=[];
 let quickPickDrugs=[];
