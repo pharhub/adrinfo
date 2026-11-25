@@ -1049,5 +1049,3581 @@
     "Ixekizumab",
     "Pancreatic enzymes"
   ],
-  "drugListSource": "MainDataforDinduce.xlsx · MainData · Gen_name"
+  "drugListSource": "MainDataforDinduce.xlsx · MainData · Gen_name",
+  "sourceRows": [
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "dermal hemorrhage",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "wound secretion",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "allergic skin reaction ",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "erythematous rash ",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "lichenoid eruption",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "perioral dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "skin necrosis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "major bleeding",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "spinal or epidural hematomas",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "hemorrhage ",
+      "conditionType": "Hematologic",
+      "percentage": "36% (infants, children, adolescents)",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "hemorrhage ",
+      "conditionType": "Hematologic",
+      "percentage": "≤15% (adults)",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "major hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "≤2% (adults)",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "clinically relevant nonmajor hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "1% (infants, children, adolescents)",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "clinically relevant nonmajor hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "1% (adults)",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "anemia",
+      "conditionType": "Hematologic",
+      "percentage": "3%)",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "bruise",
+      "conditionType": "Hematologic",
+      "percentage": "1% - 2%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "hematoma",
+      "conditionType": "Hematologic",
+      "percentage": "1% - 2%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "hemophthalmos",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "perioperative blood loss",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "postoperative hematoma",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "postoperative hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "wound hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Apixaban",
+      "inducedCondition": "henoch-Schönlein purpura",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "1% - 10%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "1% - 10%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "alopecia",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "desquamation",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "diaphoresis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "ecchymoses",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "erythema multiforme",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "erythema of skin",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "exfoliative dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "fixed drug eruption",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "onycholysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "skin photosensitivity",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "stevens-johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "vesiculobullous reaction",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "agranulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "aplastic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "bruise",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "eosinophilia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "lymphadenopathy",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "pancytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "petechial rash",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "prolonged bleeding time",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Piroxicam",
+      "inducedCondition": "purpuric disease",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "hypersensitivity reactions (immediate and delayed)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "vesiculobullous dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "acute generalized exanthematous pustulosis ",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "dermatologic reaction",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "erythema multiforme",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "exfoliative dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "fixed drug eruption",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "maculopapular rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "stevens-johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "sweet syndrome ",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "agranulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "eosinophilia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "neutropenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "pancytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Clindamycin",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "hypersensitivity reactions (immediate and delayed)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "acute generalized exanthematous pustulosis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "stevens-johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "eosinophilia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "neutropenia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "thrombocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cefazolin sodium",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "hypersensitivity reactions (delayed)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "maculopapular rash",
+      "conditionType": "Dermatologic",
+      "percentage": "≥1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "0.02",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "alopecia",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "cellulitis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "diaphoresis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "ecchymoses",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "eczema",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "exfoliative dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "furunculosis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "lichen planus",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "onycholysis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "purpuric rash",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "skin edema",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "stevens-johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "vesicobullous dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "sweet syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "agranulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "anemia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "aplastic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "bone marrow aplasia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "bone marrow depression",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "chronic myelocytic leukemia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "disseminated intravascular coagulation",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "eosinophilia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "eosinophilic fibrohistiocytic bone marrow lesion",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "hypoprothrombinemia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "leukocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "lymphadenopathy",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "lymphocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "neutropenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "pancytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "reticulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "splenomegaly,",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "tumor lysis syndrome",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Allopurinol",
+      "inducedCondition": "pure red cell aplasia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "acne vulgari",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "allergic dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "alopecia",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "atrophic striae",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "diaphoresis",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "ecchymoses",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "erythema of skin",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "facial erythema",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "fragile skin",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "hyperpigmentation",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "hypopigmentation",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "inadvertent suppression of skin test reaction",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "skin atrophy",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "subcutaneous atrophy",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "xeroderma",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "hypertrichosis",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "perianal skin irritation (itching, burning, tingling)",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "petechia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "kaposi sarcoma ",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dexamethasone",
+      "inducedCondition": "tumor lysis syndrome",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "<2%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "<2%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "stevens-Johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "eosinophilia",
+      "conditionType": "Hematologic",
+      "percentage": "0.08",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "positive direct coombs test ",
+      "conditionType": "Hematologic",
+      "percentage": "0.04",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "thrombocythemia",
+      "conditionType": "Hematologic",
+      "percentage": "0.02",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "agranulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "lymphocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "neutropenia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftazidime",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "hypersensitivity reactions (immediate and delayed)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "Skin tightness",
+      "conditionType": "Dermatologic",
+      "percentage": ">10%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "Skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "0.02",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "diaphoresis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "acute generalized exanthematous pustulosis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "allergic dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "erythema multiforme",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "stevens-Johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "eosinophilia",
+      "conditionType": "Hematologic",
+      "percentage": "0.06",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "0.02",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "thrombocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "0.05",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "agranulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "anemia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "basophilia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "decreased prothrombin time",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "granulocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "lymphocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "lymphocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "monocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "neutropenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "prolonged prothrombin time",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ceftriaxone sodium",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "diaphoresis",
+      "conditionType": "Dermatologic",
+      "percentage": "0.01",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "7.0000000000000007E-2",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "1% - 10%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "alopecia",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "ecchymoses",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "erythema multiforme",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "exfoliative dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "fixed drug eruption",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "skin photosensitivity",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "stevens-Johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "anemia",
+      "conditionType": "Hematologic",
+      "percentage": "1% - 10%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "prolonged bleeding time",
+      "conditionType": "Hematologic",
+      "percentage": "1% - 10%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "agranulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "aplastic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "eosinophilia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "lymphadenopathy",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "pancytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "purpuric disease",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Diclofenac sodium",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "hypersensitivity reactions (immediate and delayed)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "phototoxicity/photoallergy",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "1% to 2%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "diaphoresis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "erythema multiforme",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "erythema nodosum",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "exfoliative dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "phototoxicity",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "skin photosensitivity",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "stevens-Johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "acute generalized exanthematous pustulosis (Ref), fixed drug eruption (Ref), maculopapular rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "fixed drug eruption",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "maculopapular rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "agranulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "petechia",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "prolonged prothrombin time",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "purpuric disease",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "anemia ",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "eosinophilia ",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "lymphocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "methemoglobinemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "monocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "pancytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "thrombocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "petechia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "acne vulgaris",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "allergic dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "atrophic striae",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "diaphoresis",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "dry scalp",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "ecchymoses",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "facial erythema",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "hyperpigmentation",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "hypopigmentation",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "inadvertent suppression of skin test reaction",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "skin atrophy",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "thinning hair (scalp)",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Prednisolone (Systemic)",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Propofol",
+      "inducedCondition": "isorder of hemostatic components of blood",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Propofol",
+      "inducedCondition": "hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Propofol",
+      "inducedCondition": "leukocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Propofol",
+      "inducedCondition": "hyprersensitivity reaction",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Propofol",
+      "inducedCondition": "diaphoresis",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Propofol",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Propofol",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Propofol",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "acute intravascular hemolysis",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "agranulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "decreased hemoglobin",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "disorder of hemostatic components of blood (vitamin K-dependent)",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "disseminated intravascular coagulation",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "eosinophilia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "hemolysis",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "thrombocytopenia (especially with high-dose therapy)",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "thrombotic microangiopathy (including hemolytic-uremic syndrome and thrombotic thrombocytopenic purpura",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "hyprersensitivity reaction (immediate and delayed)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "acute generalized exanthematous pustulosis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "cutaneous lupus erythematosus",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "erythema multiforme",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "lichenoid eruption",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "pemphigoid reaction",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "psoriasiform eruption",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "stevens-Johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rifampicin",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rosuvastatin",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rosuvastatin",
+      "inducedCondition": "lichenoid eruption",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rosuvastatin",
+      "inducedCondition": "maculopapular rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rosuvastatin",
+      "inducedCondition": "pemphigoid",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rosuvastatin",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rosuvastatin",
+      "inducedCondition": "purpuric rash (photolocalized)",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Simvastatin",
+      "inducedCondition": "anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Simvastatin",
+      "inducedCondition": "eosinophilia ",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Simvastatin",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Simvastatin",
+      "inducedCondition": "increased erythrocyte sedimentation rate",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Simvastatin",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Simvastatin",
+      "inducedCondition": "positive ANA titer",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Simvastatin",
+      "inducedCondition": "purpuric disease",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Simvastatin",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Simvastatin",
+      "inducedCondition": "eczema",
+      "conditionType": "Dermatologic",
+      "percentage": "0.05",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Simvastatin",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Aspirin",
+      "inducedCondition": "disorder of hemostatic components of blood",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Aspirin",
+      "inducedCondition": "disseminated intravascular coagulation",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Aspirin",
+      "inducedCondition": "hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Aspirin",
+      "inducedCondition": "prolonged bleeding time",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Aspirin",
+      "inducedCondition": "prolonged prothrombin time",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Aspirin",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Aspirin",
+      "inducedCondition": "hyprersensitivity reaction (immediate and delayed)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Aspirin",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "hematologic effects",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "eosinophilia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "henoch-Schönlein purpura",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "hypoprothrombinemia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "neutropenia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "agranulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "aplastic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "hemolysis (with G6PD deficiency)",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "hemolytic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "hemophagocytic lymphohistiocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "megaloblastic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "methemoglobinemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "pancytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "thrombotic thrombocytopenic purpura",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "hyprersensitivity reaction (delayed)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "hyprersensitivity reaction (immediate)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "exfoliative dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "skin photosensitivity",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "acute generalized exanthematous pustulosis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "erythema multiforme",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "fixed drug eruption",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "stevens-Johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "sweet syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfamethoxazole + Trimethoprim",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "immunoglobulin abnormality (suppression)",
+      "conditionType": "Hematologic",
+      "percentage": "0.1",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "acquired Heinz body anemia (ulcerative colitis)",
+      "conditionType": "Hematologic",
+      "percentage": "≤3%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "hemolytic anemia (ulcerative colitis)",
+      "conditionType": "Hematologic",
+      "percentage": "≤3%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "leukopenia (rheumatoid arthritis)",
+      "conditionType": "Hematologic",
+      "percentage": "0.03",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "thrombocytopenia (rheumatoid arthritis)",
+      "conditionType": "Hematologic",
+      "percentage": "0.01",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "agranulocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "aplastic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "eosinophilia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "hemolytic-uremic syndrome",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "hypoprothrombinemia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "megaloblastic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "methemoglobinemia",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "myelodysplastic syndrome",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "neutropenia (congenital)",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "purpuric disease",
+      "conditionType": "Hematologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "hematologic disease (pseudomononucleosis)",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "purpuric rash",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "delayed hyprersensitivity reaction",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "skin rash (rheumatoid arthritis)",
+      "conditionType": "Dermatologic",
+      "percentage": "0.13",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "≤4%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "urticaria (ulcerative colitis)",
+      "conditionType": "Dermatologic",
+      "percentage": "≤3%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "skin rash (ulcerative colitis)",
+      "conditionType": "Dermatologic",
+      "percentage": "≤3%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "alopecia",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "erythema multiforme",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "parapsoriasis varioliformis acuta",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "skin discoloration",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "skin photosensitivity",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "acute generalized exanthematous pustulosis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "exfoliative dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "pallor",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "stevens-Johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Sulfasalazine",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Tenofovir disoproxil fumarate",
+      "inducedCondition": "increased serum neutrophils (grades 3/4)",
+      "conditionType": "Hematologic",
+      "percentage": "0.02",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Tenofovir disoproxil fumarate",
+      "inducedCondition": "skin rash (including maculopapular rash, pruritus, pustular rash, urticaria, vesiculobullous dermatitis)",
+      "conditionType": "Dermatologic",
+      "percentage": "5 - 7%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Tenofovir disoproxil fumarate",
+      "inducedCondition": "diaphoresis",
+      "conditionType": "Dermatologic",
+      "percentage": "0.03",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Tenofovir disoproxil fumarate",
+      "inducedCondition": "lichenoid eruption",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Tenofovir disoproxil fumarate",
+      "inducedCondition": "skin photosensitivity",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Warfarin sodium",
+      "inducedCondition": "hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Warfarin sodium",
+      "inducedCondition": "hemorrhage (including minor and major hemorrhage)",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Warfarin sodium",
+      "inducedCondition": "skin necrosis/gangrene",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Warfarin sodium",
+      "inducedCondition": "gangrene of skin and/or subcutaneous tissues",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Warfarin sodium",
+      "inducedCondition": "skin necrosis",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Warfarin sodium",
+      "inducedCondition": "bullous rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Warfarin sodium",
+      "inducedCondition": "dermatitis",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Warfarin sodium",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "Frequency not defined",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Warfarin sodium",
+      "inducedCondition": "alopecia",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Warfarin sodium",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "neutropenia",
+      "conditionType": "Hematologic",
+      "percentage": "≤7%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "anemia ",
+      "conditionType": "Hematologic",
+      "percentage": "0.64",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "anemia (grades 3/4) ",
+      "conditionType": "Hematologic",
+      "percentage": "0.01",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "leukopenia",
+      "conditionType": "Hematologic",
+      "percentage": "0.13",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "0.3",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "thrombocytopenia (grades 3/4)",
+      "conditionType": "Hematologic",
+      "percentage": "0.03",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "febrile neutropenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "hemolytic anemia (immuno-allergic; including evan syndrome)",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "hemolytic-uremic syndrome",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "immune thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "leukemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "thrombotic microangiopathy ",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "bone marrow suppression",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "alopecia ",
+      "conditionType": "Dermatologic",
+      "percentage": "0.03",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "palmar-plantar erythrodysesthesia ",
+      "conditionType": "Dermatologic",
+      "percentage": "0.01",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "skin rash ",
+      "conditionType": "Dermatologic",
+      "percentage": "0.05",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "pruritus ",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "urticaria ",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Oxaliplatin",
+      "inducedCondition": "hypersensitivity (immediate and delayed)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dolutegravir",
+      "inducedCondition": "neutropenia ",
+      "conditionType": "Hematologic",
+      "percentage": "0.04",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dolutegravir",
+      "inducedCondition": "neutropenia (grades 3/4)",
+      "conditionType": "Hematologic",
+      "percentage": "2 - 3%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dolutegravir",
+      "inducedCondition": "sideroblastic anemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dolutegravir",
+      "inducedCondition": "pruritus ",
+      "conditionType": "Dermatologic",
+      "percentage": "<2%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Dolutegravir",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Edoxaban",
+      "inducedCondition": "anemia ",
+      "conditionType": "Hematologic",
+      "percentage": "0.02",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Edoxaban",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Edoxaban",
+      "inducedCondition": "hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "7 - 26%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Edoxaban",
+      "inducedCondition": "major hemorrhage ",
+      "conditionType": "Hematologic",
+      "percentage": "1 - 13%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Edoxaban",
+      "inducedCondition": "dermal hemorrhage",
+      "conditionType": "Dermatologic",
+      "percentage": "0.06",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Edoxaban",
+      "inducedCondition": "skin rash ",
+      "conditionType": "Dermatologic",
+      "percentage": "0.04",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Edoxaban",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "hemorrhage ",
+      "conditionType": "Hematologic",
+      "percentage": "5 - 36% (pediatric patients) ",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "hemorrhage ",
+      "conditionType": "Hematologic",
+      "percentage": "5 - 36% (adults) ",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "major hemorrhage ",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "hemophthalmos",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "surgical bleeding",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "agranulocytosis  ",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "retroperitoneal hemorrhage",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "splenic rupture",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "thrombocytopenia ",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "pruritus ",
+      "conditionType": "Dermatologic",
+      "percentage": "0.02",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "skin blister ",
+      "conditionType": "Dermatologic",
+      "percentage": "0.01",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "skin rash ",
+      "conditionType": "Dermatologic",
+      "percentage": "9% (pediatric patients)",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "wound secretion ",
+      "conditionType": "Dermatologic",
+      "percentage": "0.03",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "alopecia",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "bullous pemphigoid ",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Rivaroxaban",
+      "inducedCondition": "stevens-johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "anemia",
+      "conditionType": "Hematologic",
+      "percentage": "21 - 90%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "leukopenia ",
+      "conditionType": "Hematologic",
+      "percentage": "15 - 85%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "neutropenia",
+      "conditionType": "Hematologic",
+      "percentage": "16 - 67%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "thrombocytopenia ",
+      "conditionType": "Hematologic",
+      "percentage": "25 - 62%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "hemorrhage (including iatrogenic bleeding)",
+      "conditionType": "Hematologic",
+      "percentage": "0.05",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "febrile neutropenia ",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "hemolytic-uremic syndrome",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "secondary acute myelocytic leukemia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "bone marrow suppression",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "alopecia",
+      "conditionType": "Dermatologic",
+      "percentage": "2 - 3%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Carboplatin",
+      "inducedCondition": "hypersensitivity reactions (immediate)",
+      "conditionType": "Dermatologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "bone marrow suppression (anemia)",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "bone marrow suppression (leukopenia)",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "bone marrow suppression (anemia neutropenia)",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "bone marrow suppression (thrombocytopenia)",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "acute leukemia ",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "hemolytic anemia (including autoimmune hemolytic anemia)",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "hemolytic-uremic syndrome",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "neutropenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "thrombotic microangiopathy",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "thrombotic thrombocytopenic purpura",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "tumor lysis syndrome",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "alopecia",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Cisplatin",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Fluorouracil",
+      "inducedCondition": "bone marrow suppression (anemia)",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Fluorouracil",
+      "inducedCondition": "bone marrow suppression (leukopenia)",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Fluorouracil",
+      "inducedCondition": "bone marrow suppression (neutropenia)",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Fluorouracil",
+      "inducedCondition": "Changes in nails (including nail loss),,, skin photosensitivity, xeroderma",
+      "conditionType": "Hematologic",
+      "percentage": "Significant",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Fluorouracil",
+      "inducedCondition": "pancytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Fluorouracil",
+      "inducedCondition": "changes in nails (including nail loss)",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Fluorouracil",
+      "inducedCondition": "palmar-plantar erythrodysesthesia",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Fluorouracil",
+      "inducedCondition": "skin fissure",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Fluorouracil",
+      "inducedCondition": "skin photosensitivity",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Fluorouracil",
+      "inducedCondition": "xeroderma",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "bone marrow depression (leukopenia [grades 3/4])",
+      "conditionType": "Hematologic",
+      "percentage": "<3%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "bone marrow depression (neutropenia)",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "bone marrow depression (thrombocytopenia [grades 3/4])",
+      "conditionType": "Hematologic",
+      "percentage": "<1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "bone marrow depression (myelodysplastic syndrome)",
+      "conditionType": "Hematologic",
+      "percentage": "≤2%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "bone marrow depression (secondary acute myelocytic leukemia)",
+      "conditionType": "Hematologic",
+      "percentage": "≤2%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "alopecia ",
+      "conditionType": "Dermatologic",
+      "percentage": "0.92",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "nail hyperpigmentation",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "onycholysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "palmar-plantar erythrodysesthesia",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "skin hyperpigmentation",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "skin photosensitivity",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Doxorubicin hydrochloride",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "increased hemoglobin  ",
+      "conditionType": "Hematologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "leukocytosis",
+      "conditionType": "Hematologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "erythema of skin ",
+      "conditionType": "Dermatologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "hyperhidrosis",
+      "conditionType": "Dermatologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "acute generalized exanthematous pustulosis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "skin discoloration",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "stevens-johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopromide",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "thrombocytopenia",
+      "conditionType": "Hematologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "diaphoresis ",
+      "conditionType": "Dermatologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "pruritus",
+      "conditionType": "Dermatologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "skin rash",
+      "conditionType": "Dermatologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "urticaria",
+      "conditionType": "Dermatologic",
+      "percentage": "≤1%",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "acute generalized exanthematous pustulosis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "erythema multiforme",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "pallor",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "skin necrosis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "stevens-johnson syndrome",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    },
+    {
+      "drug": "Iopamidol",
+      "inducedCondition": "toxic epidermal necrolysis",
+      "conditionType": "Dermatologic",
+      "percentage": "Postmarketing",
+      "reference": "UpToDate, Lexidrug"
+    }
+  ],
+  "excelDrugs": [
+    "Allopurinol",
+    "Apixaban",
+    "Aspirin",
+    "Carboplatin",
+    "Cefazolin sodium",
+    "Ceftazidime",
+    "Ceftriaxone sodium",
+    "Ciprofloxacin",
+    "Cisplatin",
+    "Clindamycin",
+    "Dexamethasone",
+    "Diclofenac sodium",
+    "Dolutegravir",
+    "Doxorubicin hydrochloride",
+    "Edoxaban",
+    "Fluorouracil",
+    "Iopamidol",
+    "Iopromide",
+    "Oxaliplatin",
+    "Piroxicam",
+    "Prednisolone (Systemic)",
+    "Propofol",
+    "Rifampicin",
+    "Rivaroxaban",
+    "Rosuvastatin",
+    "Simvastatin",
+    "Sulfamethoxazole + Trimethoprim",
+    "Sulfasalazine",
+    "Tenofovir disoproxil fumarate",
+    "Warfarin sodium"
+  ]
 }
