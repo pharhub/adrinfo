@@ -178,7 +178,7 @@
       "drug": "Apixaban",
       "inducedCondition": "anemia",
       "conditionType": "Hematologic",
-      "percentage": "0.03",
+      "percentage": "3%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -682,7 +682,7 @@
       "drug": "Allopurinol",
       "inducedCondition": "skin rash",
       "conditionType": "Dermatologic",
-      "percentage": "0.02",
+      "percentage": "2%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -1151,21 +1151,21 @@
       "drug": "Ceftazidime",
       "inducedCondition": "eosinophilia",
       "conditionType": "Hematologic",
-      "percentage": "0.08",
+      "percentage": "8%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Ceftazidime",
       "inducedCondition": "positive direct coombs test",
       "conditionType": "Hematologic",
-      "percentage": "0.04",
+      "percentage": "4%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Ceftazidime",
       "inducedCondition": "thrombocythemia",
       "conditionType": "Hematologic",
-      "percentage": "0.02",
+      "percentage": "2%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -1221,7 +1221,7 @@
       "drug": "Ceftriaxone sodium",
       "inducedCondition": "Skin rash",
       "conditionType": "Dermatologic",
-      "percentage": "0.02",
+      "percentage": "2%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -1291,21 +1291,21 @@
       "drug": "Ceftriaxone sodium",
       "inducedCondition": "eosinophilia",
       "conditionType": "Hematologic",
-      "percentage": "0.06",
+      "percentage": "6%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Ceftriaxone sodium",
       "inducedCondition": "leukopenia",
       "conditionType": "Hematologic",
-      "percentage": "0.02",
+      "percentage": "2%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Ceftriaxone sodium",
       "inducedCondition": "thrombocytosis",
       "conditionType": "Hematologic",
-      "percentage": "0.05",
+      "percentage": "5%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -1396,14 +1396,14 @@
       "drug": "Diclofenac sodium",
       "inducedCondition": "diaphoresis",
       "conditionType": "Dermatologic",
-      "percentage": "0.01",
+      "percentage": "1%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Diclofenac sodium",
       "inducedCondition": "pruritus",
       "conditionType": "Dermatologic",
-      "percentage": "0.07",
+      "percentage": "7%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2194,7 +2194,7 @@
       "drug": "Simvastatin",
       "inducedCondition": "eczema",
       "conditionType": "Dermatologic",
-      "percentage": "0.05",
+      "percentage": "5%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2460,7 +2460,7 @@
       "drug": "Sulfasalazine",
       "inducedCondition": "immunoglobulin abnormality (suppression)",
       "conditionType": "Hematologic",
-      "percentage": "0.1",
+      "percentage": "10%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2481,14 +2481,14 @@
       "drug": "Sulfasalazine",
       "inducedCondition": "leukopenia (rheumatoid arthritis)",
       "conditionType": "Hematologic",
-      "percentage": "0.03",
+      "percentage": "3%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Sulfasalazine",
       "inducedCondition": "thrombocytopenia (rheumatoid arthritis)",
       "conditionType": "Hematologic",
-      "percentage": "0.01",
+      "percentage": "1%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2586,7 +2586,7 @@
       "drug": "Sulfasalazine",
       "inducedCondition": "skin rash (rheumatoid arthritis)",
       "conditionType": "Dermatologic",
-      "percentage": "0.13",
+      "percentage": "13%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2684,7 +2684,7 @@
       "drug": "Tenofovir disoproxil fumarate",
       "inducedCondition": "increased serum neutrophils (grades 3/4)",
       "conditionType": "Hematologic",
-      "percentage": "0.02",
+      "percentage": "2%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2698,7 +2698,7 @@
       "drug": "Tenofovir disoproxil fumarate",
       "inducedCondition": "diaphoresis",
       "conditionType": "Dermatologic",
-      "percentage": "0.03",
+      "percentage": "3%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2796,35 +2796,35 @@
       "drug": "Oxaliplatin",
       "inducedCondition": "anemia",
       "conditionType": "Hematologic",
-      "percentage": "0.64",
+      "percentage": "64%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Oxaliplatin",
       "inducedCondition": "anemia (grades 3/4)",
       "conditionType": "Hematologic",
-      "percentage": "0.01",
+      "percentage": "1%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Oxaliplatin",
       "inducedCondition": "leukopenia",
       "conditionType": "Hematologic",
-      "percentage": "0.13",
+      "percentage": "13%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Oxaliplatin",
       "inducedCondition": "thrombocytopenia",
       "conditionType": "Hematologic",
-      "percentage": "0.3",
+      "percentage": "30%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Oxaliplatin",
       "inducedCondition": "thrombocytopenia (grades 3/4)",
       "conditionType": "Hematologic",
-      "percentage": "0.03",
+      "percentage": "3%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2887,21 +2887,21 @@
       "drug": "Oxaliplatin",
       "inducedCondition": "alopecia",
       "conditionType": "Dermatologic",
-      "percentage": "0.03",
+      "percentage": "3%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Oxaliplatin",
       "inducedCondition": "palmar-plantar erythrodysesthesia",
       "conditionType": "Dermatologic",
-      "percentage": "0.01",
+      "percentage": "1%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Oxaliplatin",
       "inducedCondition": "skin rash",
       "conditionType": "Dermatologic",
-      "percentage": "0.05",
+      "percentage": "5%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2929,7 +2929,7 @@
       "drug": "Dolutegravir",
       "inducedCondition": "neutropenia",
       "conditionType": "Hematologic",
-      "percentage": "0.04",
+      "percentage": "4%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2964,7 +2964,7 @@
       "drug": "Edoxaban",
       "inducedCondition": "anemia",
       "conditionType": "Hematologic",
-      "percentage": "0.02",
+      "percentage": "2%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -2992,14 +2992,14 @@
       "drug": "Edoxaban",
       "inducedCondition": "dermal hemorrhage",
       "conditionType": "Dermatologic",
-      "percentage": "0.06",
+      "percentage": "6%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Edoxaban",
       "inducedCondition": "skin rash",
       "conditionType": "Dermatologic",
-      "percentage": "0.04",
+      "percentage": "4%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -3076,14 +3076,14 @@
       "drug": "Rivaroxaban",
       "inducedCondition": "pruritus",
       "conditionType": "Dermatologic",
-      "percentage": "0.02",
+      "percentage": "2%",
       "reference": "UpToDate, Lexidrug"
     },
     {
       "drug": "Rivaroxaban",
       "inducedCondition": "skin blister",
       "conditionType": "Dermatologic",
-      "percentage": "0.01",
+      "percentage": "1%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -3097,7 +3097,7 @@
       "drug": "Rivaroxaban",
       "inducedCondition": "wound secretion",
       "conditionType": "Dermatologic",
-      "percentage": "0.03",
+      "percentage": "3%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -3153,7 +3153,7 @@
       "drug": "Carboplatin",
       "inducedCondition": "hemorrhage (including iatrogenic bleeding)",
       "conditionType": "Hematologic",
-      "percentage": "0.05",
+      "percentage": "5%",
       "reference": "UpToDate, Lexidrug"
     },
     {
@@ -3391,7 +3391,7 @@
       "drug": "Doxorubicin hydrochloride",
       "inducedCondition": "alopecia",
       "conditionType": "Dermatologic",
-      "percentage": "0.92",
+      "percentage": "92%",
       "reference": "UpToDate, Lexidrug"
     },
     {
